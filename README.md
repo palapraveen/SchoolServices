@@ -4,17 +4,16 @@
 	SqlAdmin tool
 	Postman client for chrome
 	Visual studio code 
-2) Copy the School_Services.zip and extract to School_Services folder 
 
-D:\> CD School_Services
+D:\> CD SchoolServices
 
-3) npm install
+2) npm install
 
-4) please refer db related setting in ormconfig.json. ( db name is : schooldb )
+3) please refer db related setting in ormconfig.json. ( db name is : schooldb )
 
-5)  Open the SQLAdmin tool and create a database called 'schooldb'
+4)  Open the SQLAdmin tool and create a database called 'schooldb'
  
-6) To run the application, goto command prompt..
+5) To run the application, goto command prompt..
    D:\school>npm  start
 
 API codes used:
