@@ -2,18 +2,22 @@
 	Node
 	MySQL
 	SqlAdmin tool
+	Git 
 	Postman client for chrome
 	Visual studio code 
+	
+2) under repository name  .click clone or download ,then copy the url and clone the code by using the command
+   git clone https://github.com/palapraveen/SchoolServices.git
 
 D:\> CD SchoolServices
 
-2) npm install
+3) npm install
 
-3) please refer db related setting in ormconfig.json. ( db name is : schooldb )
+4) please refer db related setting in ormconfig.json. ( db name is : schooldb )
 
-4)  Open the SQLAdmin tool and create a database called 'schooldb'
+5)  Open the SQLAdmin tool and create a database called 'schooldb'
  
-5) To run the application, goto command prompt..
+6) To run the application, goto command prompt..
    D:\school>npm  start
 
 API codes used:
